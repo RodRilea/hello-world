@@ -1,4 +1,4 @@
 # hello-world
 just another test repository
 
-Love to learn new stuff. Learning about what git and github have to offer me.
+Love to learn new stuff. Learning about what git and github has to offer me.
